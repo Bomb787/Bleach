@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "minecraft:water_bucket"
-  },
-  "result": "bleach:brine",
-  "cookingtime": 200
-}

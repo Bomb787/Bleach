@@ -1,0 +1,13 @@
+{
+
+	//Death Messages
+	"death.attack.bleach": "%s drank some bleach.",
+	
+	//Effects
+	"effect.concern.bleach": "Bleached",
+	
+	//Items
+	"item.concern.bleach": "Bleach",
+	"item.concern.brine": "Brine"
+
+}

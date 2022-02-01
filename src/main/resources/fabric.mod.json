@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "concern",
+  "version": "${version}",
+
+  "name": "Bleach",
+  "description": "Uhh...",
+  "authors": [
+    "Bomb787, Mojang for the bleach texture"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "GPLv3",
+  "icon": "assets/concern/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "concern.Concern"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

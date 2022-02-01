@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "concern:brine"
+        },
+        {
+            "item": "minecraft:redstone_block"
+        }
+    ],
+    "result": {
+        "item": "concern:bleach",
+        "count": 1
+    }
+}
